@@ -7,9 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I'm a Postdoctoral Associate in Mathematics at the University of Minnesota, Twin Cities. My mentors are Professors [Jeff Calder](https://cse.umn.edu/math/jeffrey-calder) and [Li Wang](https://cse.umn.edu/math/li-wang).
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+ 
+
+I received my Ph.D. in Applied Mathematics at the University of Maryland, College Park, in May 2023. My advisor is Professor [Eitan Tadmor](https://www.math.umd.edu/~tadmor/). I also received my double M.Sc. in aerospace engineering, advised by Professor James D.Baeder. 
+
+​
+
+My research involves the interplay between self-organized dynamics, data analysis, multiscale modeling, and high-resolution numerical methods for nonlinear PDEs
 
 A data-driven personal website
 ======
