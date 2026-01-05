@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jingcheng Lu, Postdoctoral Associate"
+title: "Jingcheng Lu"
 author_profile: true
 redirect_from: 
   - /about/
